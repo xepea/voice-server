@@ -1,2 +1,2 @@
-# voip-server
-simple voip server
+# voice-server
+making a voice communication server with udp sockets.
